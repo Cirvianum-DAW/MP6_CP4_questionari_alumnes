@@ -71,13 +71,6 @@ document.body.appendChild(element);
 
 ### 7. Com es pot seleccionar tots els elements amb la classe "item" i canviar el seu color de text a vermell?
 
-```javascript
-const elements = document.querySelectorAll(".item");
-elements.forEach((element) => {
-  element.style.color = "red";
-});
-```
-
 - A) `document.querySelector('.item').style.color = 'red';`
 - B) `document.querySelectorAll('.item').style.color = 'red';`
 - C) `document.querySelectorAll('.item').forEach(element => { element.style.color = 'red'; });`
