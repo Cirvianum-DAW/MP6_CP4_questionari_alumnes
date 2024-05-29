@@ -1,4 +1,4 @@
-# Instruccions per a l'Examen
+# Instruccions per a l'Exàmen
 
 ## Introducció
 
