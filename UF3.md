@@ -166,9 +166,7 @@ document
 </form>
 ```
 
-- A) `form
-
-.onsubmit = function(event) { alert('Formulari enviat!'); }`
+- A) `form.onsubmit = function(event) { alert('Formulari enviat!'); }`
 
 - B) `form.addEventListener('submit', function(event) { alert('Formulari enviat!'); });`
 - C) `form.addEventListener('submit', function(event) { event.preventDefault(); alert('Formulari enviat!'); });`
