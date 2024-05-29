@@ -309,4 +309,4 @@ promise.then((value) => {
 - C) `fetch.post('https://api.example.com/data', data)`
 - D) `fetch.post('https://api.example.com/data', JSON.stringify(data))`
 
-Aquí tens la llista de respostes correctes per la UF4 basada en l'última versió:
+
