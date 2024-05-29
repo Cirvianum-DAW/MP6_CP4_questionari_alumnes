@@ -140,7 +140,8 @@ fetch("https://api.example.com/data")
 ```javascript
 Promise.resolve(1)
   .then((value) => {
-    console.log(value); // ?    return value * 2;
+    console.log(value); // ?
+    return value * 2;
   })
   .then((value) => {
     console.log(value); // ?
